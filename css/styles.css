@@ -1,0 +1,24 @@
+h1 {
+  color: pink;
+  background-color: grey;
+}
+body {
+  background-color: grey;
+}
+. list-item {
+  font-family: monospace;
+}
+#css-item {
+  color: #5179ba;
+}
+#goal-list {
+  border-style: solid;
+  border-color: #5179ba;
+  width: 30%;
+}
+#picture {
+  width: 60%;
+  float: right;
+  border: style;
+  border-color: grey beige white grey;
+}
